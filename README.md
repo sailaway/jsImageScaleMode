@@ -11,7 +11,9 @@ js lib that support image different scale show mode
 ```
 
 Fit模式示意图：
+
 ![Fit模式](doc/fitMode.png)
 
 Fill模式示意图：
+
 ![Fill模式](doc/fillMode.png)
